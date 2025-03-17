@@ -5,6 +5,14 @@
       "path": "20 - Work & Study/Study/ISE/AI-W01.md"
     },
     {
+      "basename": "00. Library",
+      "path": "30 - Reading/00. Library.md"
+    },
+    {
+      "basename": "00. Study",
+      "path": "20 - Work & Study/Study/00. Study.md"
+    },
+    {
       "basename": "00. Cardbox",
       "path": "50 - Zettelkasten/00. Cardbox.md"
     },
@@ -25,10 +33,6 @@
       "path": "20 - Work & Study/Study/ISE/06. Web and Telecomunications.md"
     },
     {
-      "basename": "00. Study",
-      "path": "20 - Work & Study/Study/00. Study.md"
-    },
-    {
       "basename": "00. Homepage",
       "path": "40 - Obsidian/Homepages/00. Homepage.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "05. Operative Systems",
       "path": "20 - Work & Study/Study/ISE/05. Operative Systems.md"
-    },
-    {
-      "basename": "00. Library",
-      "path": "30 - Reading/00. Library.md"
     },
     {
       "basename": "Probabilidad.estadistica.ingenieria.ciencias.9ed.Walpole-FL",
