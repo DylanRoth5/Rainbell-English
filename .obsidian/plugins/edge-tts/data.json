@@ -1,0 +1,13 @@
+{
+  "selectedVoice": "en-US-BrianMultilingualNeural",
+  "customVoice": "es-US-AlonsoNeural",
+  "playbackSpeed": 1.3,
+  "showNotices": true,
+  "showStatusBarButton": true,
+  "showMenuItems": true,
+  "generateMP3": false,
+  "outputFolder": "Note Narration Audio",
+  "embedInNote": false,
+  "replaceSpacesInFilenames": false,
+  "overrideAmpersandEscape": false
+}

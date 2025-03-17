@@ -1,0 +1,310 @@
+{
+  "main": {
+    "id": "3bb12d470fcd0291",
+    "type": "split",
+    "children": [
+      {
+        "id": "599f9113b9e1d48e",
+        "type": "tabs",
+        "dimension": 45.198675496688736,
+        "children": [
+          {
+            "id": "2b5b7092aa44231f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20 - Work & Study/Study/ISE/AI-W01.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "AI-W01"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6f67d4805e30822a",
+        "type": "tabs",
+        "dimension": 54.80132450331126,
+        "children": [
+          {
+            "id": "2749d2274791d61b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "30 - Reading/IA Capítulo 1 Carlos Ponce.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "IA Capítulo 1 Carlos Ponce"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64e5df844da43397",
+    "type": "split",
+    "children": [
+      {
+        "id": "404b714244a12346",
+        "type": "tabs",
+        "dimension": 59.28143712574851,
+        "children": [
+          {
+            "id": "7408259d9b92b5f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "42aa1a006d235dd3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      },
+      {
+        "id": "98f0d4a0722ccaa3",
+        "type": "tabs",
+        "dimension": 40.7185628742515,
+        "children": [
+          {
+            "id": "a2ea7e19451c5b4f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "324c0b9d83c44a19",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "20 - Work & Study/Study/ISE/AI-W01.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of AI-W01"
+            }
+          },
+          {
+            "id": "53c2b5d46760f3a1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40 - Obsidian/Homepages/00. Dashboard.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "00. Dashboard"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 207
+  },
+  "right": {
+    "id": "61191f8ea8fb7606",
+    "type": "split",
+    "children": [
+      {
+        "id": "4294f9e389e0008a",
+        "type": "tabs",
+        "dimension": 32.82937365010799,
+        "children": [
+          {
+            "id": "6ad73b7dcf2a71b6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "20 - Work & Study/Study/ISE/AI-W01.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for AI-W01"
+            }
+          },
+          {
+            "id": "46b54befe5ed140b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "a1136d9c2141a752",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "20 - Work & Study/Study/ISE/AI-W01.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from AI-W01"
+            }
+          },
+          {
+            "id": "c722e5b5406123e9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7eaa8a53ed041fdd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "aba7aed431721f4a",
+        "type": "tabs",
+        "dimension": 67.170626349892,
+        "children": [
+          {
+            "id": "3e53c96b6f78fe7b",
+            "type": "leaf",
+            "state": {
+              "type": "memos_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Memos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 302.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false,
+      "copilot:Open Copilot Chat": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-memos:Memos": false,
+      "periodic-notes:Open today": false,
+      "edge-tts:Read note aloud": false,
+      "audio-recorder:Start/stop recording": false,
+      "daily-notes:Open today's daily note": false,
+      "publish:Publish changes...": false,
+      "random-note:Open random note": false,
+      "templates:Insert template": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "active": "2b5b7092aa44231f",
+  "lastOpenFiles": [
+    "50 - Zettelkasten/00. Cardbox.md",
+    "20 - Work & Study/Study/ISE/AI-W01.md",
+    "30 - Reading/IA Capítulo 1 Carlos Ponce.pdf",
+    "20 - Work & Study/Study/ISE/01. Artificial Intelligence.md",
+    "20 - Work & Study/Study/ISE/IA cap 1 ponce.md",
+    "20 - Work & Study/Study/ISE/06. Web and Telecomunications.md",
+    "20 - Work & Study/Study/00. Study.md",
+    "40 - Obsidian/Homepages/00. Homepage.md",
+    "20 - Work & Study/Study/ISE/02. Informatic Auditory.md",
+    "20 - Work & Study/Study/ISE/03. Informatic Resources Administration.md",
+    "20 - Work & Study/Study/ISE/04. Informatic Law.md",
+    "20 - Work & Study/Study/ISE/05. Operative Systems.md",
+    "30 - Reading/IA Ponce.md",
+    "30 - Reading/Probabilidad estadistica.md",
+    "30 - Reading/00. Library.md",
+    "30 - Reading/Probabilidad.estadistica.ingenieria.ciencias.9ed.Walpole-FL.pdf",
+    "40 - Obsidian/Homepages/00. Dashboard.md",
+    "20 - Work & Study/Study/ISE/00. Statistics.md",
+    "20 - Work & Study/Study/ISE/EST-W01.md",
+    "Untitled 3.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "10 - People/Pets/00. Pets.md",
+    "10 - People/Family/00. People.md",
+    "20 - Work & Study/Work/00. Work.md",
+    "40 - Obsidian/Homepages/00. References.md",
+    "20 - Work & Study/Study/ISE/Untitled",
+    "40 - Obsidian/Attachments/banners/book-banner.gif",
+    "40 - Obsidian/Attachments/50021653820977_.jpg.jpg",
+    "IMG_5584.jpg",
+    "cover probabilidad estadistica.png",
+    "20 - Work & Study/Study/ISE",
+    "40 - Obsidian/Attachments/banners/flowers.gif"
+  ]
+}
