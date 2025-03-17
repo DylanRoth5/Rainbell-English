@@ -149,7 +149,7 @@
       {
         "id": "4294f9e389e0008a",
         "type": "tabs",
-        "dimension": 32.82937365010799,
+        "dimension": 39.22305764411028,
         "children": [
           {
             "id": "6ad73b7dcf2a71b6",
@@ -222,14 +222,24 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "bef035c9aefdb8f5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "aba7aed431721f4a",
         "type": "tabs",
-        "dimension": 67.170626349892,
+        "dimension": 60.77694235588973,
         "children": [
           {
             "id": "3e53c96b6f78fe7b",
@@ -245,8 +255,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
-    "collapsed": true
+    "width": 302.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,7 +276,9 @@
       "publish:Publish changes...": false,
       "random-note:Open random note": false,
       "templates:Insert template": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "2b5b7092aa44231f",
